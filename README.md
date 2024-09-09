@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Developer" width="100%" style="display: block; margin-left: auto; margin-right: auto;" />
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thakur06" alt="thakur06" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures**
