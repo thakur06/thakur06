@@ -61,7 +61,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thakur06&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thakur06&theme=tokyonight" alt="GitHub Streak" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thakur06&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
 
 ---
 
